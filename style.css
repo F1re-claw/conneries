@@ -3,11 +3,11 @@
    ========================================== */
 
 :root {
-    --bg-color: #070913;
+    --bg-color: #000000;
     --panel-bg: rgba(13, 19, 33, 0.9);
     --border-color: #1e3a8a;
-    --accent-color: #38bdf8;
-    --accent-red: #ef4444;
+    --accent-color: #60029e;
+    --accent-red: #ff0000;
     --text-main: #f1f5f9;
     --text-muted: #64748b;
     --font-main: 'Segoe UI', Roboto, monospace, sans-serif;
